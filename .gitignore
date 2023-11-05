@@ -1,0 +1,7 @@
+.idea
+
+# dependencies
+/client/node_modules
+
+# dependencies
+/api/node_modules
